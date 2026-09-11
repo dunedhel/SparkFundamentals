@@ -1,0 +1,5 @@
+pyspark>=3.5.0
+findspark
+pandas
+requests
+apache-airflow>=2.8.0
